@@ -1,0 +1,30 @@
+
+
+*{
+margin: 0%;
+padding: 0%;
+}
+
+
+.cabeçalho{
+    background-color: rgb(16, 226, 226);
+    color: rgb(48, 54, 52);
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+
+.cabeçalho-imagem{
+    width: 15%;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px ;
+}
+
+
+body{font-family: sans-serif;
+    font-style:'Poppins'    ;
+
+}
